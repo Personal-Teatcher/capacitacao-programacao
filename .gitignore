@@ -1,0 +1,12 @@
+/*
+!.gitignore
+!index.html
+!programa_capacitacao_programacao.html
+!_extensions/
+!_extensions/**
+
+.quarto/
+*_files/
+*.log
+.DS_Store
+Thumbs.db
